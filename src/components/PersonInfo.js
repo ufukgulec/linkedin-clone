@@ -11,7 +11,7 @@ export default class PersonInfo extends Component {
             className="rounded mx-auto d-block "
             width="68px"
             height="68px"
-            alt="..."
+            alt="person-img"
           />
           <div className="card-body">
             <h5 className="card-title text-center fw-bold">Orhan Ufuk Güleç</h5>
