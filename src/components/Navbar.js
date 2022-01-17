@@ -10,7 +10,7 @@ export default class Navbar extends Component {
         <nav className="navbar navbar-expand-md navbar-light bg-light">
           <div className="container">
             <a className="navbar-brand" href="#">
-              <img src={Logo} alt="" width="34" height="34" />
+              <img src={Logo} alt="logo" width="34" height="34" />
             </a>
             <button
               className="navbar-toggler"
