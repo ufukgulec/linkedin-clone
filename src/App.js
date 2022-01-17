@@ -22,7 +22,7 @@ function App() {
               <p className="m-0">Sıralama ölçütü:</p><b>En önemli</b></div>
             </div>
           </div>
-          <div className="col-3">asd</div>
+          <div className="col-3">Postlar gelecek</div>
         </div>
       </div>
     </div>
