@@ -39,7 +39,7 @@ export default class NewPost extends Component {
             Etkinlik
           </a>
           <a href="" className="col-3">
-            <img src={TextIcon} alt="" width="24px" height="24px" />
+            <img src={TextIcon} alt="text" width="24px" height="24px" />
             Yazı Yaz
           </a>
         </div>
