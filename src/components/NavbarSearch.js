@@ -7,7 +7,7 @@ export default class NavbarSearch extends Component {
                 <input
                   className="form-control me-2 search-input"
                   type="search"
-                  placeholder="Search"
+                  placeholder="Arama Yap"
                   aria-label="Search"
                 />
               </form>
