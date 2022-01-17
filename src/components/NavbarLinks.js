@@ -80,7 +80,7 @@ export default class NavbarLinks extends Component {
                     <img
                       src={personIcon}
                       className=" mx-auto d-block"
-                      alt="asd"
+                      alt="person"
                       width="24"
                       height="24"
                     />
