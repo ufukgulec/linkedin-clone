@@ -3,12 +3,12 @@ body {
     font-family: Calibri;
 }
 
-a {
+.share-options a {
     text-decoration: none;
     color: inherit;
 }
 
-a:hover {
+.share-options a:hover {
     text-decoration: none;
     color: inherit;
 }
@@ -134,4 +134,19 @@ p.m-0 {
 
 hr {
     margin: 4px;
+}
+
+.single-post {
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid rgba(224, 224, 224, 0.6);
+}
+
+.single-post p {
+    margin: 0;
+}
+
+.post-img img {
+    width: 100% !important;
+    height: 300px;
 }
