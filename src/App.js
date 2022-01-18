@@ -16,13 +16,18 @@ function App() {
           </div>
           <div className="col-6">
             <NewPost />
-            <div className="d-flex justify-content-between align-items-center my-2">
-              <hr />
-              <div className="d-flex">
-              <p className="m-0">Sıralama ölçütü:</p><b>En önemli</b></div>
+            <div className="row">
+              <div className="d-flex justify-content-between align-items-center my-2">
+                <hr />
+                <div className="d-flex">
+                  <p className="m-0">Sıralama ölçütü:</p>
+                  <b>En önemli</b>
+                </div>
+              </div>
             </div>
+          
           </div>
-          <div className="col-3">Postlar gelecek</div>
+          <div className="col-3">asd</div>
         </div>
       </div>
     </div>
