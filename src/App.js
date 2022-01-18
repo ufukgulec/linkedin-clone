@@ -3,6 +3,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import PersonInfo from "./components/PersonInfo";
 import NewPost from "./components/NewPost";
+import Posts from "./components/Posts";
 
 function App() {
   return (
@@ -25,7 +26,7 @@ function App() {
                 </div>
               </div>
             </div>
-          
+            <Posts />
           </div>
           <div className="col-3">asd</div>
         </div>
